@@ -1,5 +1,5 @@
 <?php
-define('LOG_DIR', 'logs/');
+define('LOG_DIR', '');
 define('LOG_FILE' , '<NAME>.<LEVEL>.<DATE>.log');
 
 class Log
