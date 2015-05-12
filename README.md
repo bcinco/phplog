@@ -3,10 +3,12 @@ phplog
 A simple customizable logger for PHP. Just include the file in your PHP scripts.
 
 Default directory:  same folder
-Default log file: <NAME>.<LEVEL>.<DATE>.log
- - <NAME>: A name for the log file ('default')
- - <LEVEL>: Log level ('info', 'error', 'debug')
- - <DATE>: Format: YYYYMMDD
+
+Default log file: [NAME].[LEVEL].[DATE].log
+
+ - [NAME]: A name for the log file ('default')
+ - [LEVEL]: Log level ('info', 'error', 'debug')
+ - [DATE]: Format: YYYYMMDD
  - ex. "default.info.20141022.log"
 
 How to use:
